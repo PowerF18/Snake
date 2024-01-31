@@ -1,6 +1,6 @@
-package objects;
+package objects.SnakeGame.objects;
 
-import snakegame.SnakeGame;
+import objects.SnakeGame.SnakeGame;
 
 public class Apple {
 

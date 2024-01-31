@@ -1,7 +1,7 @@
-package snakegame;
+package objects.SnakeGame;
 
-import objects.Apple;
-import objects.Snake;
+import objects.SnakeGame.objects.Apple;
+import objects.SnakeGame.objects.Snake;
 
 import javax.swing.*;
 import java.awt.*;
